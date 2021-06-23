@@ -5,9 +5,7 @@ html {
 
 body{
     min-height: 100vh;
-}
-
-.blanco{
+    font-family: 'Cabin', sans-serif;
     color: white;
 }
 
@@ -15,16 +13,12 @@ body{
     margin-left: 1rem;
 }
 
-.divisor{
+.linea{
     color: #0dcaf0;
     margin-top: 2rem;
-    border-top: 5px solid;
+    border-top: 3px solid;
 }
 
-.centrado{
-    text-align: center;
-    width: 100%;
-}
 
 .destacado{
     padding-top: 5rem;
@@ -52,7 +46,7 @@ footer{
     text-decoration: none;
     color: white;
     font-size: 2rem;
-    font-weight: lighter;
+    /*font-weight: lighter;*/
 }
 
 .icofoot{
