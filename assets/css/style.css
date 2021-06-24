@@ -36,15 +36,11 @@
   footer{
       margin-top: auto;
   }
-  .foot{
-      vertical-align: middle;
-  }
   
   .logofoot{
       text-decoration: none;
       color: white;
       font-size: 2rem;
-      /*font-weight: lighter;*/
   }
   
   .icofoot{
