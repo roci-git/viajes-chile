@@ -1,14 +1,4 @@
 
-/*Fuentes*/
-@font-face {
-    font-family: 'Dela Gothic One';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(https://fonts.gstatic.com/s/delagothicone/v4/hESp6XxvMDRA-2eD0lXpDa6QkBAGQEsPQAgBRQGhdlWTf4ifQMmxfTPxmI8D_A6A.3.woff2) format('woff2');
-    unicode-range: U+fa10, U+fa12-fa6d, U+fb00-fb04, U+fe10-fe19, U+fe30-fe42, U+fe44-fe52, U+fe54-fe66, U+fe68-fe6b, U+ff02, U+ff04, U+ff07, U+ff51, U+ff5b, U+ff5d, U+ff5f-ff60, U+ff66, U+ff69, U+ff87, U+ffa1-ffbe, U+ffc2-ffc7, U+ffca-ffcf, U+ffd2-ffd6;
-  }
-  /* Fin Fuentes*/
   
   html {
       scroll-behavior: smooth;
@@ -68,13 +58,13 @@
           padding: 0;
       }
       .titulosPrincipales{
-          font-family: 'Dela Gothic One';
+          font-family: 'Nunito', sans-serif;
       }
   }
   
   @media (min-width: 768px){
       .titulosPrincipales{
-          font-family: 'Dela Gothic One';
+          font-family: 'Nunito', sans-serif;
       }
   
       .espaciadoTexto{
